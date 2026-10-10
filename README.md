@@ -43,4 +43,4 @@ These helped shape the approach:
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE). `reference/conductor.ts` is adapted from MengTo/Skills and keeps its own MIT license (`reference/LICENSE-MengTo-Skills`).
